@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a15012a4-ec4b-48a2-ba07-19d320523722" name="Changes" comment="start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26-12-24/Task-1-1845.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_2/1528.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_2/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_5/test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_5/test6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_6/test5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_8/test4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MaksimAka/ege.git&quot;,
-    &quot;accountId&quot;: &quot;5bb58874-7a7a-4289-89ec-eace300959dc&quot;
+    &quot;accountId&quot;: &quot;20c7586c-ac77-4059-8b83-a97e6cdc76ae&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -46,14 +52,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.6013.executor": "Run",
+    "Python.Task-25-4603(2).executor": "Run",
+    "Python.Task-25-4603.executor": "Run",
+    "Python.Task-25-4628(2).executor": "Run",
+    "Python.proga.executor": "Run",
+    "Python.task-25-4628(1).executor": "Run",
+    "Python.task_8_9994.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="proga" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ege" />
@@ -81,7 +94,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
