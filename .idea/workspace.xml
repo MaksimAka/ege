@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a15012a4-ec4b-48a2-ba07-19d320523722" name="Changes" comment="start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_1/Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_2/1528.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_2/test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_5/test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_5/test6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_6/test5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_8/test4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.6013.executor": "Run",
-    "Python.Task-25-4603(2).executor": "Run",
-    "Python.Task-25-4603.executor": "Run",
-    "Python.Task-25-4628(2).executor": "Run",
-    "Python.proga.executor": "Run",
-    "Python.task-25-4628(1).executor": "Run",
-    "Python.task_8_9994.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.6013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-4603(2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-4603.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-4628(2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.proga.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-25-4628(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_8_9994.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="proga" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ege" />
@@ -115,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735220577953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start">
+      <option name="closed" value="true" />
+      <created>1739807158157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739807158157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
