@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a15012a4-ec4b-48a2-ba07-19d320523722" name="Changes" comment="start">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a15012a4-ec4b-48a2-ba07-19d320523722" name="Changes" comment="task25">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_02_2025/Task-25-4603(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/17-02-2025/Task-25-4603(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_02_2025/Task-25-4603(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/17-02-2025/Task-25-4603(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_02_2025/Task-25-4628(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/17-02-2025/Task-25-4628(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_02_2025/task-25-4628(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/17-02-2025/task-25-4628(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_02_2025/task_8_9994.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-02-2025/task_8_9994.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_25/5476.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_25/5476zan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_25/6095.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_25/6095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_25/7357.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_25/7357zan.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +56,23 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.6013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6095.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-11955.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-17536.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-1867.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-3585.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-4603(2).executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-4603.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-25-4628(2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-25-8379.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task25.executor&quot;: &quot;Run&quot;,
     &quot;Python.proga.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-25-11672(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-25-11814(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-25-11814(2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-25-11814.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-25-13440(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-25-18591.executor&quot;: &quot;Run&quot;,
     &quot;Python.task-25-4628(1).executor&quot;: &quot;Run&quot;,
     &quot;Python.task_8_9994.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -60,6 +81,12 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MAkavity\Desktop\ege\24-02-2025" />
+      <recent name="C:\Users\MAkavity\Desktop\ege\20-02-2025" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="proga" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ege" />
@@ -116,11 +143,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739807158157</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task25">
+      <option name="closed" value="true" />
+      <created>1740058625996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740058625996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="task25" />
+    <option name="LAST_COMMIT_MESSAGE" value="task25" />
   </component>
 </project>

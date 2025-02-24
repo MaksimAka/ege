@@ -11,3 +11,6 @@ for r in range(5):
 ans = sorted(ans)
 for i in ans:
     print(*i)
+
+
+#perereshat'
