@@ -12,4 +12,4 @@ for i in range(len(data) - 1):
     if a1 + a2 < min_19:
         ans.append(a1 + a2)
 
-print(len(ans), abs(max(ans)))
+print(len(ans), max(ans))
