@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a15012a4-ec4b-48a2-ba07-19d320523722" name="Changes" comment="27-03-2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zanyatiya/20-03-2025(19-21)/19-21.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Zanyatiya/20-03-2025(19r)/19-21.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zanyatiya/20-03-2025(19-21)/Task-19-4624.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Zanyatiya/20-03-2025(19r)/Task-19-4624.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zanyatiya/20-03-2025(19-21)/Task-19-9750.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Zanyatiya/20-03-2025(19r)/Task-19-9750.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +57,7 @@
     "Python.Task-15.executor": "Run",
     "Python.Task-16.executor": "Run",
     "Python.Task-17-12735.executor": "Run",
+    "Python.Task-19-1863.executor": "Run",
     "Python.Task-2.executor": "Run",
     "Python.Task-23.executor": "Run",
     "Python.Task-25-11955.executor": "Run",
@@ -168,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743083371183</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="27-03-2025">
+      <option name="closed" value="true" />
+      <created>1743085693457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743085693457</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
